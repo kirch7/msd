@@ -1,0 +1,7 @@
+[package]
+name = "msd"
+version = "0.0.1"
+authors = ["kirch"]
+
+[dependencies]
+
